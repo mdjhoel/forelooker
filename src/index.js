@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {Homepage,Checkpost} from './App.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Routes>
+      <Route exact path="/testreact" element={<Homepage/>}/>
+      <Route exact path="/post/:id" element={<Checkpost/>}/>
+    </Routes>
+  </Router>,
   document.getElementById('root')
 );
 

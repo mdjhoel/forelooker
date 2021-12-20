@@ -1,0 +1,357 @@
+[
+  {
+    "id":0,
+    "name":"3 Team Canadas",
+    "date":"October 31, 2021",
+    "desc": "England, Scotland and Wales all have their own football teams. What if Canada was represented by 3 regional teams in international hockey?",
+    "image": "/testreact/images/beijing.png",
+    "bigimage": "/testreact/images/sid.jpg",
+    "sections": [
+      {
+        "title":"",
+        "content":"What if Team Canadas powerful hockey team broke up? Could one of the regional teams still win?",
+        "image": "/testreact/images/sidbig.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"Scenario",
+        "content":"There is no United Kingdom football team for the World Cup of Soccer. Instead there are teams for England, Scotland, Wales and Northern Ireland. This strange situtation is partly due to Britain being the origin of the modern game and its early dominance in competition. Canada holds the same position as Britain does in the sport of ice hockey. <p>In this <i>what if</i> scenario, we look at potential rosters for the 2022 Olympics of 3 regional Canadian teams. These regions correspond roughly to the 3 regional major junior hockey leagues in Canada (WHL, OHL and QMJHL). These regions are also similar in population.</p><table class='striped'><th>Region</th><th>Population</th><th>NHL Players</th><th></th><tr><td>Great Northwest</td><td>12350000</td><td>79</td></tr><tr><td>Ontario</td><td>14826276</td><td>110</td></tr><tr><td>Québec-Maritimes</td><td>11070000</td><td>40</td></tr></table></p>",
+        "image": "/testreact/images/canmap.png",
+        "link":"https://en.wikipedia.org/wiki/United_Kingdom_national_football_team",
+        "hr": ""
+      },
+      {
+        "title":"Depth",
+        "content":"Many puck pundits postulate that Canada has such depth of talent that they could field multiple teams in international competition. In fact, Canada does ice more than one team in the world Junior A (east and west) and world U17 (formerly 5 regional, now 3, Canada Black, Red and White) hockey challenges. <p>This is a fun thought experiment to see if this is true. Can a regional Canadian team bring home the gold? </p>",
+        "image": "",
+        "link":"https://www.hockeycanada.ca/en-ca/national-championships/men/world-u17/2021/schedule-results/can-full-roster",
+        "hr": "true"
+      },
+      {
+        "title":"Great Northwest",
+        "content":"There is no shortage of hockey talent in the Great Northwest. The cities and small towns of BC, Alberta, Saskatchewan and Manitoba are fertile ground for hockey and they are well represented in the NHL. Great Northwest has gritty leadership in Winnipeg native Mark Stone and a key element in back to back Stanley Cups for Tampa in Brayden Point. Obviously with rising star Cale Makar headlining a stellar cast of dmen and Carrie Price as your goalie solidifies the back end.",
+        "image": "/testreact/images/stone.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<table class='striped'><th>Left wing</th><th>Centre</th><th>Right wing</th><tr><td>Taylor Hall (BO - 2)</td><td>Brayden Point (TL - 1)</td><td>Mark Stone (LV - 1)</td></tr><tr><td>Jamie Benn (DS - 2)</td><td>Matt Barzal (NYI - 1)</td><td>Sam Reinhart (FL - 2)</td></tr><tr><td>Evander Kane (SJ - 1)</td><td>Ryan Nugent-Hopkins (ED - 2)</td><td>Jordan Eberle (SK - 2)</td></tr><tr><td>Braden Schenn (SL - 2)</td><td>Chandler Stephenson (LV - 2)</td><td>Brendan Gallagher (MT - 2)</td></tr></table><br><table class='striped'><th>Left defence (ED)</th><th>Right Defence</th><tr><td>Shea Theodore (LV - 1)</td><td>Cale Makar (CO - 1)</td></tr><tr><td>Tyson Barrie (ED - 2)</td><td>Ryan Pulock (NYI - 1)</td></tr><tr><td>Morgan Reilley (TO - 1)</td><td>Devon Toews (CO - 1)</td></tr></table><br><table class='striped'><th>Starting goalie</th><th>Backup</th><tr><td>Carrie Price (MT -1)</td><td>Darcy Kuemper (CO - 1)</td></tr><tr></table>",
+        "image": "",
+        "link":"https://www.quanthockey.com/nhl/province/active-nhl-players-born-in-canada-2020-21-stats.html",
+        "hr": "true"
+      },
+      {
+        "title":"Ontario",
+        "content":"With its large population and strong infrastructure of minor and junior leagues, Ontario is a hotbed of hockey. The Greater Toronto Hockey League (GTHL) alone features <b>72 alumni players</b> suiting up in the NHL this year. Ontario has many very good players who could not play their way onto this roster. The team is highly adaptable and could match up well against speedy finesse teams like the Swedes and with players like Tom Wilson and Zack Hyman, play it tough with the USA. The 3rd forward line lead by Leaf captain John Taveras, features two other prominant centreman, would be a formidable shutdown line with offensive upside. The defense is a very tough and veteren group with offensive punch. These 6 dmen are firey competitors, leaders on their club teams and know how to shut down opposing forwards. In net, Stanley Cup champion Jordan Binnington gets the nod.",
+        "image": "/testreact/images/connor.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<table class='striped'><th>Left wing</th><th>Centre</th><th>Right wing</th><tr><td>Zack Hyman (ED - 1)</td><td>Connor McDavid (ED - 1)</td><td>Mitch Marner (TO -1)</td></tr><tr><td>Tom Wilson (WC - 1)</td><td>Mark Scheifele (WJ - 1)</td><td>Steven Stamkos (TL - 2)</td></tr><tr><td>Bo Horvat (VC - 2)</td><td>John Taveras (TO - 2)</td><td>Nazim Kadri (CO - 2)</td></tr><tr><td>Andrew Mangiapane (CA - 2)</td><td>Ryan OReilley (SL - 1)</td><td>Matt Duchene (NA - 1)</td></tr></table><br><table class='striped'><th>Left defence</th><th>Right Defence</th><tr><td>Darnell Nurse (ED - 1)</td><td>Alex Petroangelo (LV - 1)</td></tr><tr><td>Aaron Ekblad (CH - 1)</td><td>Dougie Hamilton (NJ - 1)</td></tr><tr><td>MacKenzie Weegar (FL - 1)</td><td>Drew Doughty (LK - 1)</td></tr></table><br><table class='striped'><th>Starting goalie</th><th>Backup</th><tr><td>Jordan Binnington (SL - 1)</td><td>MacKenzie Blackwood (NJ - 2)</td></tr><tr></table>",
+        "image": "",
+        "link":"https://www.quanthockey.com/nhl/province/active-nhl-players-born-in-canada-2020-21-stats.html",
+        "hr": "true"
+      },
+      {
+        "title":"Québec-Maritimes",
+        "content":"Hockey is religion in this region and it shows in their quality hockey players. This team has star talent and depth especially up front. The first two lines may be the best one-two offensive punch in the Olympics. The 3rd shutdown line centred by Danault would key on other teams top line leaving easier matchups for Crosby and MacKinnon to weave their magic. The 4th energy line includes tough players that can still put the puck in the net. The backend features puck moving defensmen, Chabot and Letang as well as more defensive options such as Savard and grizzled Team Canada veteren Vlasic. Québec-Maritimes is backstopped by 2020-21 Vezina trophy winner Fleury and more than capable backup Jake Allen. Any team with Sidney Crosby has to considered a threat.",
+        "image": "/testreact/images/nathan.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<table class='striped'><th>Left wing</th><th>Centre</th><th>Right wing</th><tr><td>Brad Marchand (BO - 1)</td><td>Sidney Crosby (PB - 1)</td><td>Patrice Bergeron (BO - 1)</td></tr><tr><td>Jonathan Huberdeau (FL - 1)</td><td>Nathan MacKinnon (CO - 1)</td><td>Jonathan Marchessault (LV - 2)</td></tr><tr><td>Alex Killorn (TL - 1)</td><td>Phillip Danault (LK - 2)</td><td>David Perron (SL - 1)</td></tr><tr><td>Anthony Duclair (FL - 1)</td><td>Pierre-Luc Dubois (WJ - 2)</td><td>Yanni Gourde (SE - 2)</td></tr></table><br><table class='striped'><th>Left defence</th><th>Right Defence</th><tr><td>Thomas Chabot (OT - 1)</td><td>Kristopher Letang (PB - 1)</td></tr><tr><td>Samuel Girard (CO - 1)</td><td>David Savard (MT - 2)</td></tr><tr><td>Ryan Graves (NJ - 1)</td><td>Marco Scandela (SL - 1)</td></tr></table><br><table class='striped'><th>Starting goalie</th><th>Backup</th><tr><td>Marc-Andre Fleury (CH - 1)</td><td>Jake Allen (MT - 2)</td></tr><tr></table>",
+        "image": "",
+        "link":"https://www.quanthockey.com/nhl/province/active-nhl-players-born-in-canada-2020-21-stats.html",
+        "hr": "true"
+      },
+      {
+        "title":"Analysis",
+        "content":"Ranking these teams is difficult. Hockey is a game where anything can happen, especially in international tournaments with single game knockouts. A subjective exercise to determine team quality is to rank each player as a 1st, 2nd or 3rd line player on their club teams and provide an overall quanitative index of team quality. <br><br><svg class='chart' width='420' height='60' aria-labelledby='title desc' role='img'><g class='bar'><rect width='175' height='19' fill='green'></rect><text x='185' y='9.5' dy='.35em'>Ontario - 17.5</text></g><g class='bar'><rect width='170' height='19' y='20' fill='blue'></rect><text x='185' y='48' dy='.35em'>Great Western - 15</text></g><g class='bar'><rect width='150' height='19' y='40' fill='gold'></rect><text x='185' y='28' dy='.35em'>Québec-Maritimes - 17</text></g></svg><br>Obviously, the above methodology has serious flaws as a 2nd line player on a good team might be a first on a bad team and vice versa. ",
+        "image": "",
+        "link":"https://www.cbssports.com/nhl/teams/",
+        "hr": "true"
+      },
+      {
+        "title":"Gold medalist?",
+        "content":"In my personal opinion, I would say that Québec-Maritimes and Ontario have the best forwards, Ontario and Great Western have the strongest defence and Great Western has the edge in goal with Carrie Price (if he can be healthy). Overall, Ontario seems to have the best mix of finesse, toughness and grit to challenge for the gold, however, they do lack experience at forward in big international games. Speaking of experience, Québec-Maritimes led by the Crosby-Marchand-Bergeron line have this in spades and this edge might be enough to lead them to the gold.<br><br>In the end, Connor McDavid is the best player in the world and Ontario is the deepest team with the best defence. If Binnington can come up big they should be able to defeat the other Canadian teams, USA, Russia and Sweden for the gold. <br><br><b>Medals</b><ol><li>Ontario</li><li>USA</li><li>Québec-Maritimes</li></ol>",
+        "image": "/testreact/images/perfection.png",
+        "link":"https://www.cbssports.com/nhl/teams/",
+        "hr": "true"
+      }
+    ]
+  },
+  {
+    "id":1,
+    "name":"2040: Maritime Union",
+    "date":"December 13, 2021",
+    "desc": "Québec has separated and Canadian provinces have become autonomous states in the Anglosphere. To compete and provide effective services ...",
+    "image": "/testreact/images/union.png",
+    "bigimage": "/testreact/images/union.png",
+    "sections": [
+      {
+        "title":"Scenario",
+        "content":"In this 'what if', we look into the future of a theoretical union of the 3 maritime Canadian provinces. In this scenario, Canada ceases to exist and its provinces and territories and forced to forge new economic and political alliances.<p>What if Canada dissolves and New Brunswick, Nova Scotia and Prince Edward Island are forced to join forces and forge an independent future?</p> ",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/marflags.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"2040 flag raising",
+        "content":"<p>On July 1st 2040, the Maritime Union flag was unveiled (with some trepidation but also excitement) at the new capital in Halifax and at ceremonies in every town and city throughout the new country. Citizens need not have worried, as the Maritime Union became a great success within 5 years.</p>  The Maritime Union flag prominently features the rising sun of the eastern Maritimes provinces symbolizing the portion of North America that sees the sun first (Atlantic time zone GMT-4). The red lion is a symbol of strength and alludes to the Royal Arms of England, which exists in all three provincial flags. The green of PEI, the blue of Nova Scotia and the yellow New Brunswick are included as bars in the new flag.",
+        "image": "",
+        "link":"/testreact/images/newmarflag.png",
+        "hr": "true"
+      },
+      {
+        "title":"Our timeline",
+        "content":"In our timeline, the 3 provinces of eastern Canada are small in area and population (in the Canadian context) and far from large trade markets in central Canada and the USA. All 3 are surprisingly rural with only Halifax, Nova Scotia surpassing 400000 people, and have for many years had aging and some years even declining populations. Geography and demographic factors have contributed to their relatively <a href='https://en.wikipedia.org/wiki/List_of_Canadian_provinces_and_territories_by_gross_domestic_product' target='_blank'>underdeveloped economies</a>. Nova Scotia, Prince Edward Island and New Brunswick have also grown somewhat financially dependent on federal government transfers in the form of equalization payments and other programs.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<h6>Financial transfers from federal government per capita 2021</h6><p><svg class='chart' width='600' height='60' aria-labelledby='title desc' role='img'><g class='bar'><rect width='451' height='19' fill='green'></rect><text x='461' y='9.5' dy='.35em'>PEI - $4510</text></g><g class='bar'><rect width='442' height='19' y='20' fill='gold'></rect><text x='461' y='28' dy='.35em'>NB - $4418</text></g><g class='bar'><rect width='386' height='19' y='40' fill='blue'></rect><text x='461' y='48' dy='.35em'>NS - $3864</text></g></svg></p><p>Source: <a href='https://www.canada.ca/en/department-finance/programs/federal-transfers/major-federal-transfers.html' target='_blank'>Canada department of finance</a></p>",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/union_b4.png",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"Economic storm",
+        "content":"Despite work to improve their budget balances in the early 2020s (particularly by premier Higgs in New Brunswick), and being relatively unscathed by COVID-19, Québec separation in 2028, and reduction of federal transfers hit the maritime provinces hard. Massive budget cuts were made in Nova Scotia, New Brunswick and especially PEI. User fees were implemented on hospital visits and other formerly <i>free</i> services. Income and sales taxes were also increased to cover shortfalls. Significant government services and job losses began to occur in 2029 and all three provinces had their credit ratings downgraded by bond rating agencies; Moodys and Fitch. Deficits and debt servicing costs skyrocketed due to increasing interest rates at the Bank of Canada meant to keep inflatiion in check. Street protests in Halifax, Fredericton and Charlottetown were weekly occurances as unemployment hit 15% generally and 25% in young people. Out-migration resumed in 2027 after a short hiatus due to COVID-19 work from home mandates.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"Stronger together",
+        "content":"By 2034, Acadia and the République du Madawaska had separated from New Brunswick and the Maritime provinces were tightly in the grip of economic stagnation and government austerity. In the wider world, the United Kingdom, USA, Australia, New Zealand and the English Canadian provinces (including NB, PEI and NS) formed an Anglosphere economic customs union and military alliance in 2037. Within the Anglosphere the vestigal bonds between Ontario, Buffalo (prairie union, formed 2035) and British Colombia slipped away leaving the Maritime provinces on their own. <p>Declining government services, debt and economic malais forced the Maritime provinces to merge and radically remake themselves.</p> After two years of negotiation based on the similar Buffalo (prairie union of Alberta, Saskatchewn and Manitoba) experience, the Maritime Union was born in 2040.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/uniontime.png",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/crosby.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"10 years later",
+        "content":"July 1st, 2050 celebrations for the 10th anniversary of the creation of the Maritime Union were attended by Union Prime Minister Sidney Crosby and representatives of the Anglosphere customs and military alliance. Dependence and hard times seem like ancient history in the minds of the youthful crowd on hand in Halifax harbour to mark the occassion. However, it was a decade ago that New Brunswick, Nova Scotia and PEI united as an emergency measure due to serious budget problems, austerity measures and civil unrest.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"After 10 years of union, the Maritimes have become one of the most hopeful, dynamic, creative and youthful countries of the Anglosphere. Young educated people from the former United States, United Kingdom, Canada and even Australia voted with their feet and started new lives here. Drawn by favourable tax rates, streamlined and trustworthy government and economic freedom, individuals and companies relocated in surprisingly large numbers.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"Rule of law & economic freedom",
+        "content":"After the economic shock of Canada unraveling, the Maritimes copied economic and political best practices from similar jurisdictions such as Ireland and the Baltic countries. Transparent, high tech, small government and a flat tax helped Estonia rebound from Soviet communism and it worked in the Maritimes. Austerity was difficult in the beginning, but the cultural cohesiveness of Maritimers and solid work ethic resulted in growth within 2 two years. Guarenteed tariff free access to the large and affluent Anglosphere market and relative low cost of doing business was also a big economic and political boost.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<div class='row'><div class='col s12 m6 l4'><div class='card'><div class='card-image'><a href='/testreact/images/union.png' target='_blank'><img src='/testreact/images/union.png'></a></div><div class='card-content'><p>The Maritimes have prospered in independence. The economic boom is credited to low direct taxation, streamlined government (3# in Transparency International) and tariff free access to the Anglosphere free trade zone. The Maritime Union has a population of 2 million and an area of 114K km.</p></div></div></div><div class='col s12 m6 l4'><div class='card'><div class='card-image'><a href='https://en.wikipedia.org/wiki/Ireland' target='_blank'><img src='/testreact/images/ireland.png'></a></div><div class='card-content'><p>Long known for its poverty, Ireland has become one of the worlds richest countries. A culture of initiative and industry has evolved through low taxation, pro-business regulatory policies, and a young, tech-savvy workforce. A united Ireland has a population of 6 milliion and an area of 80K km.</p></div></div></div><div class='col s12 m6 l4'><div class='card'><div class='card-image'><a href='https://en.wikipedia.org/wiki/Estonia' target='_blank'><img src='/testreact/images/estonia.png'></a></div><div class='card-content'><p>Freed from communist control, Estonia instituted transparent government and policies that sustain a high level of economic freedom (ranked 6th). A simplified flat tax system, openness investment, and trade a well-functioning economy. Estonia has a population of 1.3 million and an area of 45K km2.</p></div></div></div></div>",
+        "image": "",
+        "link":"",
+        "hr": "true"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name":"2035: Avenir Acadia",
+    "date":"November 18, 2021",
+    "desc": "After Canada unravelled, austerity measures in New Brunswick reduced french language services. Tension between Anglophones and Francophones ...",
+    "image": "/testreact/images/acadia_th.png",
+    "bigimage": "./images/acadia_th.png",
+    "sections": [
+      {
+        "title":"Scenario",
+        "content":"In the summer of 2030, the flag of the newly independent Québec nation were burned in a protest in rural southwestern New Brunswick near the US border. Tensions were also high in french speaking Acadian and Brayon areas in the north and east. Unemployment, and a reduction in bilingual services contributed to the unrest.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"The 2030 New Brunswick provincial election featured a new political party called Avenir. Avenir advocated a left leaning separtist agenda similar to the Parti Québecois. They received 70% of the vote in north and east and sent 4 representatives to the legislature in Fredericton. Several hard line <i>Anglosphere</i> politicians ran in southern ridings, with 1 being elected. By 2032, budget cuts resulted in French education being offered in census tracts with over 50% french mother tongue.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"Acadian parents were outraged and staged a successful media and street protest campaign for greater autonomy within New Brunswick. This was supported by the Québec government.",
+        "image": "/testreact/images/frenchnb.png",
+        "link":"https://censusmapper.ca/maps/2842?index=3#6/46.073/-63.611",
+        "hr": "true"
+      },
+      {
+        "title":"Ethnic sorting",
+        "content":"By the 2034 New Brunswick election, linguistic tension was peaking and ballots featured a referedum for partitioning the province by language. Partition was to be based on the results of a special census (in 2033) stipulating that census tracts with 51% french as the mother tongue would be considered part of the Canadian <i>Francosphere</i> and eligible for partition. Predictably, this lead to ethnic sorting / migration and some tension in border areas, but due to low population density and previous good relations in New Brunswick, there was remarkable calm and the Anglo-Franco border was agreed upon by the government and the general public.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"Referedum",
+        "content":"In 2034 Voters cast their ballots along linguistic lines and the referendum passed with a Qui/Yes vote with 75%. The Francophone caucaus in Fredericton immediately submitted their intension to secceed and join Québec. The negotiations between Canada, Québec and within New Brunswick were relatively quick as the Québec separation served as a model and all sides agreed with the partition.",
+        "image": "/testreact/images/acadiandemo.jpg",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"République du Madawaska",
+        "content":"An interesting wrinkle in the Québec ascension negotiations was a request from the Brayon people (centred around Edmonston) to become its own region in Québec known as the République du Madawaska. The Brayons consider themselves distinct from their Acadian speaking siblings further east. This request was granted by Québec and Acadia and the République du Madawaska officially became the 18 and 19th regions within Québec. New Brunswick became a unilingually english province in 2035.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<h6>After partition</h6><table class='striped'><th></th><th>New Brunswick</th><th>Acadia</th><th>Madawaska</th><tr><td>Capital</td><td>Fredericton</td><td>Dieppe</td><td>Edmonston</td><tr><td>Population</td><td>550000</td><td>200000</td><td>50000</td></tr><tr><td>Area</td><td>51262 km2</td><td>16130 km2</td><td>7612 km2</td></tr></table>",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/acadia_th.png",
+        "link":"",
+        "hr": "true"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name":"2028: Québec",
+    "date":"November 18, 2021",
+    "desc": "Disagreement over climate change, equalization payments, mass migration and Québecois nationalism lead to a successful referendum in 2028 ...",
+    "image": "/testreact/images/quebec.png",
+    "bigimage": "/testreact/images/quebec.png",
+    "sections": [
+      {
+        "title":"Scenario",
+        "content":"The province of Québec is often recognized as a distiinct society within Canada due to its french language majority and history. Québec has had two referendums on indepdence in the past, with the last one (1995) failing by a very small margin.<p>In this <i>what if</i> scenario, we look at the possible triggers of a successful Québec independence referendum.</p>",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/quebectimeline.png",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/Quebecois.jpg",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"COVID and Climate",
+        "content":"The outbreak of COVID-19 and its attendant lockdowns, street protests and cultural upheaval exacerbated long simmering tension between Québec and Western Canada. Promises to hobble the Canadian fossil fuel industry by Canadian Prime Minister Justin Trudeau to environmental activists at COP26 in 2021 played well in Québec, but the resultant taxes and regulatory regimes caused a long term decline in the Alberta tar sands, the Saskatchewn and Newfoundland oil fields. Billions of dollars in Federal aid to oil and gas provinces to compensate them was critisized in the Québec media and sparked environmental protests in Montreal.",
+        "image": "",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"Equalization",
+        "content":"In the 2021-25 elections, Alberta, Saskatchewn, British Colombia and Ontario voters passed referendum ballots refuting the federal government equalization program, which redistributed money from largely western provinces to eastern Canada, with much of the money going to Québec. The prospect of losing billions of dollars of transfer payments from the Federal government weakened the case for remaining in Canada for many Quebecers.",
+        "image": "/testreact/images/equal.png",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"Nationalism",
+        "content":"<p>Meanwhile in Québec, Prime Minister Trudeaus famous 2015 comments that Canada was the first post-national country did not sit well with francophones. His notion that Canada had <i>no core identity, no mainstream.</i> did not ring true in the sovereigntist heartland. </p>Quasi goverment Air Canada CEO Michael Rousseau committed a political gaffe in late 2021 with his inability to communicate in french despite living in Montreal, resulting in street demonstrations. In 2022, the Federal government took the Québec government to court to challenge the controversial Bill 21 hijab ban, which brought many secularists and provincial rights supporters to the sovereignist side. <p>The flames of nationalist discontent were further fanned by student and native activists in Québec City protesting against colonialism spray painted the famous Samuel de Champlain statue. Mr. Trudeaus response was to meet with and publicly support the activists fight against native cultural genocide. This was not well received outside university campuses.</p>",
+        "image": "/testreact/images/champlain.png",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/trudeau.png",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"Mass migration",
+        "content":"Federal committments to mass migration with a goal of increasing Canadian population to 100 million by 2100 further inflamed Québec sovereignists. As most immigrants ended up in Ontario and western Canada, the position of Québec in the federal parliament was at risk.",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"",
+        "image": "/testreact/images/century.png",
+        "link":"https://www.centuryinitiative.ca/",
+        "hr": "true"
+      },
+      {
+        "title":"Successful referendum",
+        "content":"In 2025 another referedum was held and Québec sovereignty was achieved with a 60% majority. The prospect of reduced equalization payments, a smaller voice in national affairs and nationalism finally tipped the scales. There was a predictable out migration of many Anglophones and Allophones to other Canadian provinces, but the sovereignist case was convincing enough that the scale of emmigration was small and the business community was not unduly affected. Separation was based on the Czechslovak 'velvet divorce' where federal resources were divided based on the share of population at the time of the referedum. There was some acriomony surrounding the aportioning of the large Canadian debt and use of the Canadian currency, but miraculously this obstacle was overcome by the negotiation teams. Interestingly, businss leaders from Toronto, Calgary and Montreal were selected to reach an accord behind closed doors to minimize the impact of the sensaionalist media and fame seeking politicians.<p>On July 24th 2028, after years of complex negotiations, Québec separated from Canada.</p>",
+        "image": "",
+        "link":"",
+        "hr": ""
+      },
+      {
+        "title":"",
+        "content":"<h5>Québec and countries with similar populations</h5><table class='striped'><th></th><th>Québec</th><th>Sweden</th><th>Hungary</th><tr><td>capital</td><td>Québec City</td><td>Stolkholm</td><td>Budapest</td></tr><tr><td>language</td><td>French</td><td>Swedish</td><td>Hungarian</td></tr><tr><td>area (km2)</td><td>1542056</td><td>450295</td><td>93000</td></tr><tr><td>population (2028)</td><td>9500000</td><td>10400000</td><td>9300000</td></tr><tr><td>GDP (2028 $USD)</td><td>$450B</td><td>$580B</td><td>$370B</td></tr><tr><td>currency</td><td>Canadian dollar</td><td>Swedish krona</td><td>Hungarian forint</td></tr></table>",
+        "image": "",
+        "link":"",
+        "hr": "true"
+      },
+      {
+        "title":"",
+        "content":"This map is a 2035 map showing Acadian and République du Madawaska regions added to Québec during the partition of New Brunswick.",
+        "image": "/testreact/images/quebec.png",
+        "link":"",
+        "hr": "true"
+      }
+    ]
+  }
+]
